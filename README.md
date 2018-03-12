@@ -1,12 +1,9 @@
-## Rest api
+# RECIPIENTS-REST-API
 
-clone the project
+## Install
 
-### Installations
-* npm install
+    $ npm install
 
-### Run
+## Run
 
-* npm run start
-
-:)
+    $ npm run start
